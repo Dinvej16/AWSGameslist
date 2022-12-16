@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
+    <head>
+    <meta charset="UTF-8"/>
+    <title>replace</title>
+</head>
+<body>
+<div>
+<h1>Games</h1>
+<table class="table">
+    <tbody>
+    <tr th:each="game : ${Games}">
+        <td th:text="${game.getTitle()}"></td>
+        <td th:text="${game.getYear()}"></td>
+        <td th:text="${game.getGenreName()}"></td>
+    </tr>
+    </tbody>
+</table>
+
+</div>
+
+
+</body>
+</html>
