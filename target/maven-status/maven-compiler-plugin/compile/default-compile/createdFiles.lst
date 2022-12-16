@@ -1,0 +1,8 @@
+com/systementor/viewmodel/HomeGame.class
+com/systementor/games/model/Game.class
+com/systementor/games/model/GameRepository.class
+com/systementor/games/SeedData.class
+com/systementor/games/model/GenreRepository.class
+com/systementor/games/GamesApplication.class
+com/systementor/games/model/Genre.class
+com/systementor/games/controller/HomeController.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.systementor.games.GamesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.228 s - in com.systementor.games.GamesApplicationTests
